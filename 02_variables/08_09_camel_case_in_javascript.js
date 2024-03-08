@@ -21,3 +21,14 @@ We aren't choosing these casing rules arbitrarily - the JavaScript community ten
 // False
 
 // Answer = True
+
+// Question 02
+
+// The JS community generally prefers...
+
+// snake_case
+// camelCase
+// SCREAMING_SNAKE_CASE
+// PascalCase
+
+// Answer = camelCase
