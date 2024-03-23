@@ -38,6 +38,7 @@ function test(review) {
   console.log(`'${review}' is it clean: ${clean}`)
 }
 
+// Tests
 test('avril lavigne has the best dang tour')
 test('what a bad film')
 test('oh my heck, I hated it')
