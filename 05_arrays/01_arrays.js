@@ -16,6 +16,7 @@ console.log(strings[0])
 // Prints: 'banana'
 
 PUSH TO A LIST
+
 In JavaScript, we .push() items to an array.
 
 const drinks = []
